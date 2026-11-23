@@ -1,0 +1,2 @@
+# hotel-rates
+Hotel rates
